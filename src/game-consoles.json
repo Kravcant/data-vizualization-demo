@@ -1,0 +1,359 @@
+[
+  {
+    "Platform": "Nintendo Switch 2",
+    "Type": "Hybrid",
+    "Company": "Nintendo",
+    "Released": 2025,
+    "Units sold (mil)": 19.86
+  },
+  {
+    "Platform": "Meta Quest 3",
+    "Type": "VR headset",
+    "Company": "Reality Labs",
+    "Released": 2023,
+    "Units sold (mil)": 1.7
+  },
+  {
+    "Platform": "Nex Playground",
+    "Type": "Home",
+    "Company": "Nex",
+    "Released": 2023,
+    "Units sold (mil)": 1
+  },
+  {
+    "Platform": "PlayStation 5",
+    "Type": "Home",
+    "Company": "Sony",
+    "Released": 2020,
+    "Units sold (mil)": 93.7
+  },
+  {
+    "Platform": "Xbox Series X/S",
+    "Type": "Home",
+    "Company": "Microsoft",
+    "Released": 2020,
+    "Units sold (mil)": 28.3
+  },
+  {
+    "Platform": "Quest 2",
+    "Type": "VR headset",
+    "Company": "Reality Labs",
+    "Released": 2020,
+    "Units sold (mil)": 20
+  },
+  {
+    "Platform": "Genesis Mini",
+    "Type": "Dedicated",
+    "Company": "Sega",
+    "Released": 2019,
+    "Units sold (mil)": 1.5
+  },
+  {
+    "Platform": "Oculus Go",
+    "Type": "VR headset",
+    "Company": "Oculus",
+    "Released": 2018,
+    "Units sold (mil)": 2
+  },
+  {
+    "Platform": "Nintendo Switch",
+    "Type": "Hybrid",
+    "Company": "Nintendo",
+    "Released": 2017,
+    "Units sold (mil)": 155.92
+  },
+  {
+    "Platform": "Super NES Classic Edition",
+    "Type": "Dedicated",
+    "Company": "Nintendo",
+    "Released": 2017,
+    "Units sold (mil)": 5.28
+  },
+  {
+    "Platform": "NES Classic Edition",
+    "Type": "Dedicated",
+    "Company": "Nintendo",
+    "Released": 2016,
+    "Units sold (mil)": 3.56
+  },
+  {
+    "Platform": "PlayStation 4",
+    "Type": "Home",
+    "Company": "Sony",
+    "Released": 2013,
+    "Units sold (mil)": 117.2
+  },
+  {
+    "Platform": "Xbox One",
+    "Type": "Home",
+    "Company": "Microsoft",
+    "Released": 2013,
+    "Units sold (mil)": 58
+  },
+  {
+    "Platform": "Wii U",
+    "Type": "Home",
+    "Company": "Nintendo",
+    "Released": 2012,
+    "Units sold (mil)": 13.56
+  },
+  {
+    "Platform": "Nintendo 3DS",
+    "Type": "Handheld",
+    "Company": "Nintendo",
+    "Released": 2011,
+    "Units sold (mil)": 75.94
+  },
+  {
+    "Platform": "PS Vita",
+    "Type": "Handheld",
+    "Company": "Sony",
+    "Released": 2011,
+    "Units sold (mil)": 12.5
+  },
+  {
+    "Platform": "Wii",
+    "Type": "Home",
+    "Company": "Nintendo",
+    "Released": 2006,
+    "Units sold (mil)": 101.63
+  },
+  {
+    "Platform": "PlayStation 3",
+    "Type": "Home",
+    "Company": "Sony",
+    "Released": 2006,
+    "Units sold (mil)": 87.4
+  },
+  {
+    "Platform": "Xbox 360",
+    "Type": "Home",
+    "Company": "Microsoft",
+    "Released": 2005,
+    "Units sold (mil)": 84
+  },
+  {
+    "Platform": "Nintendo DS",
+    "Type": "Handheld",
+    "Company": "Nintendo",
+    "Released": 2004,
+    "Units sold (mil)": 154.02
+  },
+  {
+    "Platform": "PSP",
+    "Type": "Handheld",
+    "Company": "Sony",
+    "Released": 2004,
+    "Units sold (mil)": 80
+  },
+  {
+    "Platform": "V.Smile",
+    "Type": "Home",
+    "Company": "VTech",
+    "Released": 2004,
+    "Units sold (mil)": 11
+  },
+  {
+    "Platform": "Leapster",
+    "Type": "Handheld",
+    "Company": "Leapfrog",
+    "Released": 2003,
+    "Units sold (mil)": 7
+  },
+  {
+    "Platform": "N-Gage",
+    "Type": "Handheld",
+    "Company": "Nokia",
+    "Released": 2003,
+    "Units sold (mil)": 3
+  },
+  {
+    "Platform": "Game Boy Advance",
+    "Type": "Handheld",
+    "Company": "Nintendo",
+    "Released": 2001,
+    "Units sold (mil)": 81.51
+  },
+  {
+    "Platform": "Xbox",
+    "Type": "Home",
+    "Company": "Microsoft",
+    "Released": 2001,
+    "Units sold (mil)": 24
+  },
+  {
+    "Platform": "Nintendo GameCube",
+    "Type": "Home",
+    "Company": "Nintendo",
+    "Released": 2001,
+    "Units sold (mil)": 21.74
+  },
+  {
+    "Platform": "PlayStation 2",
+    "Type": "Home",
+    "Company": "Sony",
+    "Released": 2000,
+    "Units sold (mil)": 160
+  },
+  {
+    "Platform": "Dreamcast",
+    "Type": "Home",
+    "Company": "Sega",
+    "Released": 1998,
+    "Units sold (mil)": 9.14
+  },
+  {
+    "Platform": "Neo Geo Pocket",
+    "Type": "Handheld",
+    "Company": "SNK",
+    "Released": 1998,
+    "Units sold (mil)": 2
+  },
+  {
+    "Platform": "Nintendo 64",
+    "Type": "Home",
+    "Company": "Nintendo",
+    "Released": 1996,
+    "Units sold (mil)": 32.93
+  },
+  {
+    "Platform": "PlayStation",
+    "Type": "Home",
+    "Company": "Sony",
+    "Released": 1994,
+    "Units sold (mil)": 102.49
+  },
+  {
+    "Platform": "Sega Saturn",
+    "Type": "Home",
+    "Company": "Sega",
+    "Released": 1994,
+    "Units sold (mil)": 9.26
+  },
+  {
+    "Platform": "Sega Pico",
+    "Type": "Home",
+    "Company": "Sega",
+    "Released": 1993,
+    "Units sold (mil)": 3.4
+  },
+  {
+    "Platform": "3DO",
+    "Type": "Home",
+    "Company": "The 3DO Company[note 12]",
+    "Released": 1993,
+    "Units sold (mil)": 2
+  },
+  {
+    "Platform": "SNES",
+    "Type": "Home",
+    "Company": "Nintendo",
+    "Released": 1990,
+    "Units sold (mil)": 49.1
+  },
+  {
+    "Platform": "Sega Game Gear",
+    "Type": "Handheld",
+    "Company": "Sega",
+    "Released": 1990,
+    "Units sold (mil)": 10.62
+  },
+  {
+    "Platform": "Philips CD-i",
+    "Type": "Home",
+    "Company": "Philips",
+    "Released": 1990,
+    "Units sold (mil)": 1
+  },
+  {
+    "Platform": "Game Boy",
+    "Type": "Handheld",
+    "Company": "Nintendo",
+    "Released": 1989,
+    "Units sold (mil)": 118.69
+  },
+  {
+    "Platform": "Atari Lynx",
+    "Type": "Handheld",
+    "Company": "Atari",
+    "Released": 1989,
+    "Units sold (mil)": 2
+  },
+  {
+    "Platform": "Sega Genesis",
+    "Type": "Home",
+    "Company": "Sega",
+    "Released": 1988,
+    "Units sold (mil)": 30.75
+  },
+  {
+    "Platform": "Sega Master System",
+    "Type": "Home",
+    "Company": "Sega",
+    "Released": 1985,
+    "Units sold (mil)": 10
+  },
+  {
+    "Platform": "NES",
+    "Type": "Home",
+    "Company": "Nintendo",
+    "Released": 1983,
+    "Units sold (mil)": 61.91
+  },
+  {
+    "Platform": "Sega SG-1000",
+    "Type": "Home",
+    "Company": "Sega",
+    "Released": 1983,
+    "Units sold (mil)": 2
+  },
+  {
+    "Platform": "ColecoVision",
+    "Type": "Home",
+    "Company": "Coleco",
+    "Released": 1982,
+    "Units sold (mil)": 2
+  },
+  {
+    "Platform": "Atari 5200",
+    "Type": "Home",
+    "Company": "Atari",
+    "Released": 1982,
+    "Units sold (mil)": 1
+  },
+  {
+    "Platform": "Intellivision",
+    "Type": "Home",
+    "Company": "Mattel",
+    "Released": 1980,
+    "Units sold (mil)": 3
+  },
+  {
+    "Platform": "Magnavox Odyssey\u00b2",
+    "Type": "Home",
+    "Company": "Magnavox/Philips",
+    "Released": 1978,
+    "Units sold (mil)": 2
+  },
+  {
+    "Platform": "Atari 2600",
+    "Type": "Home",
+    "Company": "Atari",
+    "Released": 1977,
+    "Units sold (mil)": 30
+  },
+  {
+    "Platform": "Color TV-Game",
+    "Type": "Dedicated",
+    "Company": "Nintendo",
+    "Released": 1977,
+    "Units sold (mil)": 3
+  },
+  {
+    "Platform": "Telstar",
+    "Type": "Dedicated",
+    "Company": "Coleco",
+    "Released": 1976,
+    "Units sold (mil)": 1
+  }
+]
