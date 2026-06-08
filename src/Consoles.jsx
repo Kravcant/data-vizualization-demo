@@ -5,7 +5,7 @@ import rawData from './game-consoles.json';
 const data = rawData.map(item => ({
   name: item.Platform,
   unitsSold: item["Units sold (mil)"],
-}));
+})).sort((a, b) => b.unitsSold - a.unitsSold);
 
 // #endregion
 const SimpleBarChart = () => {
@@ -21,6 +21,7 @@ const SimpleBarChart = () => {
         bottom: 5,
       }}
     >
+      <CartesianGrid strokeDasharray="3 3" />
       <XAxis
         dataKey="name"
         angle={-60}
